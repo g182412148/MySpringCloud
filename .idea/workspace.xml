@@ -16,6 +16,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -69,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AmqpApplicationTests">
+  <component name="RunManager" selected="Spring Boot.EurekaZuulApplication">
     <configuration name="AmqpApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="amqp" />
       <extension name="coverage">
@@ -200,7 +205,7 @@
       <workItem from="1578637458906" duration="565000" />
       <workItem from="1578973897604" duration="2436000" />
       <workItem from="1579054175679" duration="10152000" />
-      <workItem from="1579078263174" duration="664000" />
+      <workItem from="1579078263174" duration="1035000" />
     </task>
     <task id="LOCAL-00001" summary="ggg">
       <created>1579077841261</created>
@@ -246,11 +251,6 @@
           <url>file://$PROJECT_DIR$/eureka-provider/src/main/java/com/provider/eurekaprovider/controller/FeignConsumerController.java</url>
           <line>24</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/amqp/src/main/java/com/erlang/amqp/util/Sender.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
