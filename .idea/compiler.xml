@@ -9,12 +9,21 @@
         <module name="eureka-zuul" />
         <module name="eureka-server" />
         <module name="eureka-client" />
-        <module name="MySpringCloud" />
+        <module name="SpringCloud" />
         <module name="eureka-provider" />
         <module name="amqp" />
         <module name="eureka-client1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amqp" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-client1" target="1.8" />
+      <module name="eureka-provider" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-zuul" target="1.8" />
+      <module name="SpringCloud" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

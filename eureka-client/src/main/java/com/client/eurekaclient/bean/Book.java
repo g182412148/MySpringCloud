@@ -4,6 +4,7 @@ public class Book {
     private String name;
     private Long price;
     private String author;
+    private String id;
 
     public String getName() {
         return name;
